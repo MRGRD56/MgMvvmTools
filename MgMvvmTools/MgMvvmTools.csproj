@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <UseWPF>true</UseWPF>
+        <TargetFrameworks>net48;net5.0-windows;netcoreapp3.1</TargetFrameworks>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Extensions for WPF.</Title>
+        <Description>ICommand and INotifyPropertyChanged implementations, SynchronizationContext extensions.</Description>
+        <PackageVersion>1.2.0</PackageVersion>
+    </PropertyGroup>
+
+</Project>

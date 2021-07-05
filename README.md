@@ -9,7 +9,7 @@ NuGet Package: https://www.nuget.org/packages/MgMvvmTools/
 
 #### Target Frameworks
  - .NET Core 3.1 `netcoreapp3.1`
- - .NETFramework 4.8 `net48`
+ - .NET Framework 4.8 `net48`
  - .NET 5.0 (Windows) `net5.0-windows`
 
 #### Dependencies

@@ -7,6 +7,8 @@
         <Title>Extensions for WPF.</Title>
         <Description>ICommand and INotifyPropertyChanged implementations, SynchronizationContext extensions.</Description>
         <PackageVersion>1.2.2</PackageVersion>
+        <PackageProjectUrl>https://github.com/MRGRD56/MgMvvmTools</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/MRGRD56/MgMvvmTools</RepositoryUrl>
     </PropertyGroup>
 
     <ItemGroup>

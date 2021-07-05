@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 using System.Runtime.CompilerServices;
-using MgMvvmTools.Annotations;
+using JetBrains.Annotations;
 
 namespace MgMvvmTools
 {
